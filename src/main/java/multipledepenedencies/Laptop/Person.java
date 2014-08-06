@@ -1,4 +1,4 @@
-package multipledepenedencies.Laptop;
+package multipledepenedencies.laptop;
 
 /**
  * Created by ppatel2 on 8/6/2014.
@@ -17,6 +17,6 @@ public class Person {
 
     public void diplayInfo(){
         System.out.println("Mobile:" + mobile);
-        System.out.println("Laptop:" + laptop);
+        System.out.println("laptop:" + laptop);
     }
 }

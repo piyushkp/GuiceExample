@@ -1,4 +1,4 @@
-package multipledepenedencies.Laptop;
+package multipledepenedencies.laptop;
 
 /**
  * Created by ppatel2 on 8/6/2014.

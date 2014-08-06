@@ -1,4 +1,4 @@
-package multipledepenedencies.Laptop;
+package multipledepenedencies.laptop;
 
 /**
  * Created by ppatel2 on 8/6/2014.
@@ -14,6 +14,6 @@ public class Laptop
     }
 
     public String toString(){
-        return "[Laptop: " + model + "," + price + "]";
+        return "[laptop: " + model + "," + price + "]";
     }
 }
